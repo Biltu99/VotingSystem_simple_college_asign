@@ -137,4 +137,5 @@ This project strictly enforces the "One Person, One Vote" rule through **3 layer
 ## 👨‍💻 Author
 **Biltu**
 BCA Student | College Academic Project
+
 ```
